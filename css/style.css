@@ -5,8 +5,9 @@
     font-size: 1.2rem;
 }
 
+
 header {
-    background-image: linear-gradient(to bottom, rgba(235, 77, 201, 0.781), rgba(117, 18, 117, 0.808));
+    background-image: linear-gradient(to bottom, rgba(127, 37, 230, 0.781), hsla(219, 86%, 57%, 0.808));
     display: flex;
     justify-content: space-between;
     align-items: center;
